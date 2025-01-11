@@ -5,13 +5,13 @@
 ###
 
 <div align="center">
-  <a href="https://www.linkedin.com/in/yeasin-rahman-safa-543b11275/" target="_blank">
+  <a href="linkedin.com/in/md-yeasin-rahman-safa-543b11275" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
   <a href="https://x.com/YeasinSafa" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
   </a>
-  <a href="yeasinrahmansafa@gmail.com" target="_blank">
+  <a href="mailto:yeasinrahmansafa@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
   </a>
   <a href="http://wa.me/+8801777102026" target="_blank">
@@ -72,9 +72,5 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeasinrahman26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeasinrahman26&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
 </div>
-
-###
-
-<img src="https://raw.githubusercontent.com/yeasinrahman26/yeasinrahman26/output/snake.svg" alt="Snake animation" />
 
 ###
