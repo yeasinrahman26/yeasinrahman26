@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm a frontend web developer<br>✨ Creating bugs since 2024<br>📚 I'm currently learning react<br>🎯 Goals: Become a full stake developer<br>⚡ In my free time I love to sleep</p>
+<p align="left">I'm a frontend web developer<br>✨ Creating bugs since 2024<br>📚 I'm currently learning react<br>🎯 Goals: Become a full stack developer<br>⚡ In my free time I love to sleep</p>
 
 ###
 
@@ -74,3 +74,9 @@
 </div>
 
 ###
+
+<div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=yeasinrahman26&theme=transparent&border_radius=5" alt="GitHub Streak" />
+  </a>
+</div>
