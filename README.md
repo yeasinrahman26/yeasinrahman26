@@ -42,7 +42,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="40" alt="tailwindcss logo"  />
+  <img src="https://images.seeklogo.com/logo-png/35/1/tailwind-css-logo-png_seeklogo-354675.png" height="40" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" alt="bootstrap logo"  />
   <img width="12" />
@@ -54,7 +54,7 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
   <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="express logo"  />
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSFRztssUmVkQcDl8a8Jd4u8mZxOjX5jydMQA&s" height="40" alt="express logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
   <img width="12" />
@@ -68,6 +68,12 @@
 ###
 
 <div align="center">
+  <a href="https://git.io/streak-stats">
+    <img src="https://nirzak-streak-stats.vercel.app?user=yeasinrahman26&theme=transparent&border_radius=5" alt="GitHub Streak" />
+  </a>
+</div>
+
+<div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=yeasinrahman26&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=yeasinrahman26&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeasinrahman26&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
@@ -75,8 +81,4 @@
 
 ###
 
-<div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=yeasinrahman26&theme=transparent&border_radius=5" alt="GitHub Streak" />
-  </a>
-</div>
+
