@@ -68,9 +68,7 @@
 ###
 
 <div align="center">
-  <a href="https://git.io/streak-stats">
-    <img src="https://nirzak-streak-stats.vercel.app?user=yeasinrahman26&theme=transparent&border_radius=5" alt="GitHub Streak" />
-  </a>
+<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=yeasinrahman26&theme=gruvbox-duo&short_numbers=true" alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
